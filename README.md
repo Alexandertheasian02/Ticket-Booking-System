@@ -21,6 +21,7 @@ Load from file
 Print ticket information and total price
 Sort tickets by price
 Quit
+
 2. Classes and Objects:
 
 Person.java:
@@ -32,17 +33,22 @@ Ticket.java:
 Represents a ticket with attributes: row, seat, price, and a Person object.
 Constructor creates a ticket with the provided attributes.
 Includes a print method to display ticket information.
+
 3. Ticket Management:
 
 Utilizes an ArrayList to store and manage Ticket objects.
 Enables ticket purchase and cancellation, updating seat availability accordingly.
 Provides methods to display available seats, save and load data to/from a file, and print ticket information.
+
 4. Additional Functionality:
 
 Calculates and displays the total price of all tickets.
 Implements ticket sorting based on price, displaying the sorted information.
+
 How to Use:
 
 Clone the repository and run the Theatre.java file.
 Follow the menu prompts to interact with the New Theatre Ticket Management System.
+
+
 This project serves as a comprehensive solution for managing and controlling seat reservations, providing a seamless experience for both the theatre staff and patrons. Explore the code and enhance your understanding of Java programming with this practical application.
