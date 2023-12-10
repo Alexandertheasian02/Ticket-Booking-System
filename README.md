@@ -28,6 +28,7 @@ Person.java:
 
 Represents a person with attributes: name, surname, and email.
 Constructor initializes the person with the given attributes.
+
 Ticket.java:
 
 Represents a ticket with attributes: row, seat, price, and a Person object.
