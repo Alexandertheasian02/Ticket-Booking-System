@@ -1,9 +1,9 @@
 
-Title: New Theatre Ticket Management System in Java
+Title: Ticket-Booking-System
 
 Description:
 
-Welcome to the New Theatre Ticket Management System, a Java program designed and implemented to efficiently manage and control seat reservations for the New Theatre's sessions. This project consists of a main program, Theatre.java, along with two additional classes, Person.java and Ticket.java, creating a robust object-oriented solution.
+Welcome to the Ticket-Booking-System, a Java program designed and implemented to efficiently manage and control seat reservations for a theatre's sessions. This project consists of a main program, Theatre.java, along with two additional classes, Person.java and Ticket.java, creating a robust object-oriented solution.
 
 Key Features:
 
@@ -49,7 +49,7 @@ Implements ticket sorting based on price, displaying the sorted information.
 How to Use:
 
 Clone the repository and run the Theatre.java file.
-Follow the menu prompts to interact with the New Theatre Ticket Management System.
+Follow the menu prompts to interact with the Ticket-Booking-System.
 
 
 This project serves as a comprehensive solution for managing and controlling seat reservations, providing a seamless experience for both the theatre staff and patrons. Explore the code and enhance your understanding of Java programming with this practical application.
